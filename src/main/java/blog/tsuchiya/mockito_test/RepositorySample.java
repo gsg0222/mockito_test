@@ -29,5 +29,4 @@ public class RepositorySample {
 		System.out.println("saveLengthImpl");
 		return length;
 	}
-
 }
